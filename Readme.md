@@ -35,3 +35,13 @@ Here, we have to divide the data into distinctive groups, the process is known a
 - PCA is a unsupervised ML algorithm.
 - PCA performs dimensionality reductions while attempting at keeping the original information unchanged.
 
+
+#### Notebook
+
+> [Python Notebook Here](https://github.com/nilesh170/Machine-Learning-on-Marketing-Data/blob/main/Unsupervised%20Learning%20on%20Marketing%20Data.ipynb)
+
+#### Get the code
+Clone the repo to your machine
+```
+git clone https://github.com/nilesh170/Machine-Learning-on-Marketing-Data
+```
